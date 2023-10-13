@@ -1,0 +1,1 @@
+export const ONE_YEAR_MSC = "31536000000"
