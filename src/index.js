@@ -34,7 +34,7 @@ bot.onText(/\/menu/, async msg => {
       keyboard: [
         ['* Изм. дату', '* Инфа'],
         ['* До дмб', '* Прошло дней'],//before DMB
-        ['* Закрыть Меню']
+        ['* Закрыть меню']
       ],
       resize_keyboard: true
     }
